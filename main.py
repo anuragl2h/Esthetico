@@ -96,4 +96,4 @@ async def on_command_error(ctx, error):
         await ctx.send(f"Error: {str(error)}")
 
 # Start bot
-bot.run("MTM3NDI0MzI2OTg3Mjk3NTg3Mg.G9L4US.UylcGi-iXOzO2rIJuadrpb7vP1enH5QINJIjRk")  # Replace with your token
+bot.run("TOKEN")  # Replace with your token
